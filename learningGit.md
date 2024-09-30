@@ -38,3 +38,6 @@ You can connect with developers around the world to ask and answer questions, le
 
 ## Personal Notes
 I have formatted the contents of [documentation on Git/GitHub resources](https://github.com/github/docs) using Markdown.
+
+## Summary
+Getting started with Git.
